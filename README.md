@@ -39,3 +39,16 @@ An educational AI-based medical image classification project that uses a Convolu
 
 ## Disclaimer
 This project is an educational prototype and is not clinically validated. It must not be used for medical diagnosis or healthcare decisions.
+## Model Performance
+
+### Confusion Matrix
+![Confusion Matrix](outputs/confusion_matrix.png)
+
+### Accuracy Graph
+![Accuracy Graph](outputs/accuracy_graph.png)
+
+### Loss Graph
+![Loss Graph](outputs/loss_graph.png)
+
+## Disclaimer
+This project is an educational prototype and is not intended for medical diagnosis.
